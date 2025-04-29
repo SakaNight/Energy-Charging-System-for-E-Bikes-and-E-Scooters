@@ -47,7 +47,7 @@ This project addresses **range anxiety** for e-bike and e-scooter users by build
 ## 📸 Screenshots
 
 ### Android App Layout
-![Home](./docs/Android%20App%20Layout.png)
+![Home](./docs/Android_App_Layout.png)
 
 ## 🚀 Future Work
 
