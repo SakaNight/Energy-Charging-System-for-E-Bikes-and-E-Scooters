@@ -1,0 +1,28 @@
+<resources>
+    <style name="Theme.ECharging" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/background_yellow</item>
+        <item name="colorPrimaryVariant">@color/dark_blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/dark_blue</item>
+        <item name="textInputStyle">@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox</item>
+        <item name="android:windowBackground">@color/background_yellow</item>
+        <item name="android:statusBarColor">@color/background_yellow</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:fontFamily">@font/roboto</item> <!-- Ensure this points to your font -->
+    </style>
+
+    <style name="Widget.ECharging.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="backgroundTint">@color/dark_blue</item>
+        <item name="cornerRadius">8dp</item>
+        <item name="android:fontFamily">@font/roboto</item>
+    </style>
+
+    <style name="Widget.ECharging.TextView" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/roboto</item>
+    </style>
+</resources>

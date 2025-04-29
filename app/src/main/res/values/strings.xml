@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">eCharging</string>
+    <string name="welcome_message">Welcome to eCharging!</string>
+    <string name="welcome_image_description">Welcome image</string>
+    <string name="search_hint">Search by address</string>
+    <string name="search_button">Search</string>
+    <string name="scan_qr_code_button">Scan QR Code</string>
+    <string name="account_button">Account</string>
+</resources>

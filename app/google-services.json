@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "699316052288",
+    "firebase_url": "https://projectece659-default-rtdb.firebaseio.com",
+    "project_id": "projectece659",
+    "storage_bucket": "projectece659.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699316052288:android:18ea4a7b7581e03a6b9aa5",
+        "android_client_info": {
+          "package_name": "com.example.echarging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnSTS4b1bjCz43srZu79dCbmo4O8_cgGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

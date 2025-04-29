@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    android:background="@color/background_yellow">
+
+    <ImageView
+        android:id="@+id/imageViewWelcome"
+        android:layout_width="161dp"
+        android:layout_height="182dp"
+        android:contentDescription="Welcome Image"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/textViewWelcome"
+        style="@style/Widget.ECharging.TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to eCharging!"
+        android:textColor="@color/dark_blue"
+        android:layout_gravity="center_horizontal"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp" />
+
+    <TextView
+        android:id="@+id/textViewDescription"
+        style="@style/Widget.ECharging.TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Please login or register to use the service"
+        android:textColor="@color/dark_blue"
+        android:textSize="18sp"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/buttonRegister"
+        style="@style/Widget.ECharging.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Registration"
+        android:textColor="@color/white"
+        android:background="@drawable/rounded_button"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/buttonLogin"
+        style="@style/Widget.ECharging.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:textColor="@color/white"
+        android:background="@drawable/rounded_button"
+        android:layout_marginTop="8dp" />
+
+</LinearLayout>
