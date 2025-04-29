@@ -44,15 +44,10 @@ This project addresses **range anxiety** for e-bike and e-scooter users by build
 - **IoT Integration**: NFC module (RC522), simulated charging flow logic
 - **UI/UX**: Custom Android screens + QR Code interactions
 
-## 📊 Result
+## 📸 Screenshots
 
-The system integrates hardware, cloud services, and mobile interfaces into a cohesive, scalable prototype. Key achievements:
-
-- ✅ Real-time station visibility and bookings
-- ✅ Reliable backend communication
-- ✅ Secure role-based access (company vs. individual)
-- ✅ RFID simulation + hardware logic
-- ✅ End-to-end user flow from login to charging complete
+### Android App Layout
+![Home](./docs/Android App Layout.png)
 
 ## 🚀 Future Work
 
