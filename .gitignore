@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+*/build/
+!gradle-wrapper.jar
+
+# Local configuration
+local.properties
+
+# IntelliJ
+.idea/
+*.iml
+
+# MacOS
+.DS_Store
+
+# Firebase
+google-services.json
+
+# Kotlin
+*.kotlin_module
+
+# Log
+*.log
+
+# Python (for your generate_qr_codes.py if using venv)
+__pycache__/
+*.pyc
+.venv/
